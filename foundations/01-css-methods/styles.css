@@ -8,3 +8,10 @@ div {
     text-align: center;
     
 }
+
+p {
+   color: black;
+   background-color: pink;
+   font-family: Verdana, Geneva, Tahoma, sans-serif ;
+   
+}
